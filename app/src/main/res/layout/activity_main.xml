@@ -11,7 +11,7 @@
     tools:context=".MainActivity">
 
     <RelativeLayout
-        android:id="@+id/layoutTagLinl"
+        android:id="@+id/layoutTagLine"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="50dp"
@@ -20,7 +20,7 @@
         android:paddingBottom="5dp">
 
         <TextView
-            android:id="@+id/textTagline"
+            android:id="@+id/textTagLine"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_centerHorizontal="true"
@@ -37,7 +37,7 @@
         app:srcCompat="@drawable/ball4" />
 
     <Button
-        android:id="@+id/askButton"
+        android:id="@+id/buttonAsk"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
